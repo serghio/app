@@ -25,13 +25,12 @@
     <preference name="android-installLocation" value="auto" />
     <gap:plugin name="org.apache.cordova.battery-status" version="0.2.7" />
     
-    <gap:platform name=”ios” />
-    <gap:platform name=”android” />
-    <gap:platform name=”blackberry”/>
-    <gap:platform name=”winphone”/>
-    <gap:platform name=”webos”/>
-    <gap:platform name=”firefoxos”/>
-    <gap:platform name=”ubuntu”/>
+    <gap:platform name="ios"/>
+    <gap:platform name="android"/>
+    <gap:platform name="blackberry"/>
+    <gap:platform name="winphone"/>
+    <gap:platform name="webos"/>
+
 
 
 <gap:plugin name="org.apache.cordova.camera" version="0.2.9" />
